@@ -1,3 +1,5 @@
+// This is experimental do not edit it
+
 
 function getFullPath(url)  {
     let _path = window.location.pathname;

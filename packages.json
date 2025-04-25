@@ -1,0 +1,9 @@
+{
+    "package-catagory": [
+        {
+            "name": "name",
+            "url": "url",
+            "license": "license"
+        }
+    ]
+}
